@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @SiIentNinja
-- This is my second account (I deleted my first)
+- This is my second account
 -  I like coding
 - I sometimes use github
 -  Big fan of pokemon
